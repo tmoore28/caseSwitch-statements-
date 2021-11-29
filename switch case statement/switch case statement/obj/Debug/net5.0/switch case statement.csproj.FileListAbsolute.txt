@@ -1,0 +1,16 @@
+C:\Users\cocac\source\repos\switch case statement\switch case statement\bin\Debug\net5.0\switch case statement.exe
+C:\Users\cocac\source\repos\switch case statement\switch case statement\bin\Debug\net5.0\switch case statement.deps.json
+C:\Users\cocac\source\repos\switch case statement\switch case statement\bin\Debug\net5.0\switch case statement.runtimeconfig.json
+C:\Users\cocac\source\repos\switch case statement\switch case statement\bin\Debug\net5.0\switch case statement.runtimeconfig.dev.json
+C:\Users\cocac\source\repos\switch case statement\switch case statement\bin\Debug\net5.0\switch case statement.dll
+C:\Users\cocac\source\repos\switch case statement\switch case statement\bin\Debug\net5.0\ref\switch case statement.dll
+C:\Users\cocac\source\repos\switch case statement\switch case statement\bin\Debug\net5.0\switch case statement.pdb
+C:\Users\cocac\source\repos\switch case statement\switch case statement\obj\Debug\net5.0\switch case statement.csproj.AssemblyReference.cache
+C:\Users\cocac\source\repos\switch case statement\switch case statement\obj\Debug\net5.0\switch case statement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cocac\source\repos\switch case statement\switch case statement\obj\Debug\net5.0\switch case statement.AssemblyInfoInputs.cache
+C:\Users\cocac\source\repos\switch case statement\switch case statement\obj\Debug\net5.0\switch case statement.AssemblyInfo.cs
+C:\Users\cocac\source\repos\switch case statement\switch case statement\obj\Debug\net5.0\switch case statement.csproj.CoreCompileInputs.cache
+C:\Users\cocac\source\repos\switch case statement\switch case statement\obj\Debug\net5.0\switch case statement.dll
+C:\Users\cocac\source\repos\switch case statement\switch case statement\obj\Debug\net5.0\ref\switch case statement.dll
+C:\Users\cocac\source\repos\switch case statement\switch case statement\obj\Debug\net5.0\switch case statement.pdb
+C:\Users\cocac\source\repos\switch case statement\switch case statement\obj\Debug\net5.0\switch case statement.genruntimeconfig.cache
