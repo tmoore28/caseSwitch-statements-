@@ -29,7 +29,6 @@ namespace switch_case_statement
                     Console.WriteLine($"Thats interesting i havnt heard of that on yet! Whats that the study of?");
                     break;
 
-
             }
         }
     }
